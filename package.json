@@ -55,6 +55,8 @@
   },
   "dependencies": {
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "pyodide": "^0.20.0",
+    "error-stack-parser": "^2.1.4"
   }
 }
